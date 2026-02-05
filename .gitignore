@@ -1,1 +1,4 @@
-node_modules/\n.env\ncache/\nartifacts/
+node_modules/
+.env
+cache/
+artifacts/
